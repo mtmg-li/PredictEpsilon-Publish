@@ -1,0 +1,6 @@
+code/.ipynb_checkpoints/
+code/__pycache__/
+output/
+temp/
+*.nbconvert.ipynb
+rawData/
